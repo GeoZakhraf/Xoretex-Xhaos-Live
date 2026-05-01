@@ -12,6 +12,13 @@
 | **Game Modes:** Explore interactive mini-games like Painter, Sculptor, Battle, and Color War directly within the chaotic flow. | **أنماط الألعاب:** استكشف ألعاباً تفاعلية مصغرة مثل الرسام، النحات، المعركة، وحرب الألوان داخل التدفق الفوضوي. |
 
 ---
+## 🔗 Live Demo | الرابط المباشر 
+> **The engine is live and free to use. If you like the work, don't forget to star the repo!**
+> **المحرك متاح الآن للجميع مجاناً. إذا أعجبك الشغل، لا تبخل بنجمة (Star) للمستودع تقديراً للمجهود!**
+<div align="center">
+  <h2><a href="https://sakran2030.github.io/Xoretex-Xhaos-Live/">🚀 [ اضغط هنا لتشغيل المحرك المباشر ] 🚀</a></h2>
+</div>
+---
 ## 🚀 What's New in v7 | ما الجديد في الإصدار 7؟
 * 🖥️ **WebGL GPU Rendering:** Press `G` to unlock extreme performance (500K+ particles).
 * 🎮 **Interactive Game Modes:** Turn math into gameplay (Painter, Sculptor, Battle, Colors).
@@ -24,14 +31,14 @@
 ## 🧪 Key Features | المميزات الرئيسية
 ### 🇬🇧 English
 * **Live Equation Injector:** Write and edit JS math formulas on the fly.
-* **Multi-Layer Logic:** Create multiple equation layers that fight for control. Click a layer to visually focus its particles.
-* **Kinetic Interaction:** Attract, repel, or sculpt particles using mouse/touch forces and dynamic fields (Gravity, Vortex).
-* **Creative FX:** Motion Blur, Simplex Noise Turbulence, 3D Depth Simulation, and Color Cycling.
+* **Multi-Layer Logic:** Create multiple equation layers that fight for control.
+* **Kinetic Interaction:** Attract, repel, or sculpt particles using mouse/touch forces.
+* **Creative FX:** Motion Blur, Simplex Noise Turbulence, and 3D Depth Simulation.
 ### 🇸🇦 العربية
 * **حقن المعادلات المباشر:** اكتب وعدل معادلات الـ JavaScript الرياضية فوراً أثناء التشغيل.
 * **منطق متعدد الطبقات:** أنشئ طبقات تتصارع للسيطرة. انقر على طبقة للتركيز بصرياً على جسيماتها.
-* **تفاعل حركي:** اجذب، اطرد، أو انحت الجسيمات باستخدام اللمس/الماوس ومجالات القوة (جاذبية، دوامة).
-* **مؤثرات بصرية:** ضبابية الحركة (Motion Blur)، تشويش حركي، محاكاة العمق ثلاثي الأبعاد، وتدوير الألوان.
+* **تفاعل حركي:** اجذب، اطرد، أو انحت الجسيمات باستخدام اللمس/الماوس ومجالات القوة.
+* **مؤثرات بصرية:** ضبابية الحركة (Motion Blur)، تشويش حركي، ومحاكاة العمق ثلاثي الأبعاد.
 ---
 ## ⌨️ Shortcuts | اختصارات التحكم
 
@@ -45,11 +52,10 @@
 | **R** | Randomize Engine | توليد معادلات عشوائية |
 | **C** | Clear Canvas | مسح الشاشة |
 | **L** | Switch Language (EN/AR) | تغيير اللغة |
-| **1-4** | Place Force Fields | وضع مجالات قوى (جاذبية، الخ) |
 
 ---
 <div align="center">
-  <p>Developed by <b>Sakran2030</b></p>
+  <p>Developed with ❤️ by <b>Sakran2030</b></p>
   <p>
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
     <img src="https://img.shields.io/badge/Version-7.0_Live-blue.svg" alt="Version">

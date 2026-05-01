@@ -16,7 +16,7 @@
 > **The engine is live and free to use. If you like the work, don't forget to star the repo!**
 > **المحرك متاح الآن للجميع مجاناً. إذا أعجبك الشغل، لا تبخل بنجمة (Star) للمستودع تقديراً للمجهود!**
 <div align="center">
-  <h2><a href="https://sakran2030.github.io/Xoretex-Xhaos-Live/">🚀 [ اضغط هنا لتشغيل المحرك المباشر ] 🚀</a></h2>
+  <h2><a href="https://geozakhraf.github.io/Xoretex-Xhaos-Live/">🚀 [ اضغط هنا لتشغيل المحرك المباشر ] 🚀</a></h2>
 </div>
 ---
 ## 🚀 What's New in v7 | ما الجديد في الإصدار 7؟
@@ -25,8 +25,8 @@
 * 🎨 **Color Palettes System:** Layers now support dynamic multi-color palettes (Neon, Ocean, Fire, etc.) instead of single colors.
 * 📚 **Formula Library:** Instantly inject complex mathematical presets (DNA Helix, Crystal, Quantum) with a click.
 * 🎵 **Advanced Audio Viz:** 32-band frequency analysis with automatic Beat detection and BPM calculation.
-* 📐 **Pro Export Tools:** Export current frame as **SVG** vector paths or **GLSL** shader code for Shadertoy, alongside 4K Screenshots and MP4/WebM recording.
-* 🧲 **Pulsating Physics:** Force fields can now pulse dynamically over time. Particle friction and mass are now fully controllable.
+* 📐 **Pro Export Tools:** Export current frame as **SVG** vector paths or **GLSL** shader code for Shadertoy.
+* 🧲 **Pulsating Physics:** Force fields can now pulse dynamically over time.
 ---
 ## 🧪 Key Features | المميزات الرئيسية
 ### 🇬🇧 English
@@ -55,7 +55,7 @@
 
 ---
 <div align="center">
-  <p>Developed with ❤️ by <b>Sakran2030</b></p>
+  <p>Developed with ❤️ by <b>GeoZakhraf</b></p>
   <p>
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
     <img src="https://img.shields.io/badge/Version-7.0_Live-blue.svg" alt="Version">
